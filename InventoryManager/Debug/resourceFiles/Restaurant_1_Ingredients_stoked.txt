@@ -1,0 +1,6 @@
+Bread 5 2
+Cheese 3 5
+Onion 10 20
+Capsicum 3 2
+Penne 30 2
+Rice 60 2
