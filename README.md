@@ -39,3 +39,4 @@ DESCRIPTION OF CODE AND CONCEPTS USED
 -	Different files are used to provide run time flexibility and scalability. User can add any number of restaurants, menu items and ingredients using these files.
 -	In my restocking algorithm function, I took the average of ingredients required till previous day and based on that I calculated how much ingredients I have to stock more. And these calculations are stored in the file <RestaurantName>_Ingredients_Required.txt.
 -	Once the ingredient expired it is not further being used.
+-	Ingredient items are sorted daily based on expirty date. This is done so that the items which are going to expire soon will be used first.
